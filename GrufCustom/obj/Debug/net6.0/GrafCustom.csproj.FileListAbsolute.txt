@@ -1,0 +1,15 @@
+D:\Graph\GrufCustom\bin\Debug\net6.0\GrafCustom.exe
+D:\Graph\GrufCustom\bin\Debug\net6.0\GrafCustom.deps.json
+D:\Graph\GrufCustom\bin\Debug\net6.0\GrafCustom.runtimeconfig.json
+D:\Graph\GrufCustom\bin\Debug\net6.0\GrafCustom.dll
+D:\Graph\GrufCustom\bin\Debug\net6.0\GrafCustom.pdb
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.csproj.AssemblyReference.cache
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.AssemblyInfoInputs.cache
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.AssemblyInfo.cs
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.csproj.CoreCompileInputs.cache
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.dll
+D:\Graph\GrufCustom\obj\Debug\net6.0\refint\GrafCustom.dll
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.pdb
+D:\Graph\GrufCustom\obj\Debug\net6.0\GrafCustom.genruntimeconfig.cache
+D:\Graph\GrufCustom\obj\Debug\net6.0\ref\GrafCustom.dll
